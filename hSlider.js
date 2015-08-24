@@ -158,6 +158,6 @@
       }
     };
 
-    init(options);
+    init();
   }
 })(jQuery)
